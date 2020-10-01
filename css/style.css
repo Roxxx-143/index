@@ -1,0 +1,113 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.dog{
+  width: 400px; 
+   
+  margin: 90px auto auto 100px;
+  font-stretch: 30px;
+  position:absolute;
+}
+.heading{
+    font-size: 3rem;
+    line-height: 1;
+    margin-bottom: 20px;
+    color: #440047;
+    padding-bottom: 5px;
+    
+}
+.para{
+    line-height: 1.5;
+    font-family: cursive, serrif;
+    color: #1a1a2e;
+    padding-top: 0;
+
+}
+.table{
+    float: right;
+    margin: 140px 350px auto auto;
+   
+    
+}
+.content-table{
+    border-collapse: collapse;
+    margin: 15px;
+    
+    min-width: 400px;
+    font-size: 0.9em;
+      
+}
+.content-table tr{
+    background-color: #dbe3e5;
+    border-radius: 20px 20px 20px 20px;
+    border: 1px solid gray;
+    
+    
+    
+}
+.content-table td{
+    padding: 10px 12px;
+}
+.right{
+    margin-left: 50px;
+}
+.left{
+    margin-left: 100px;
+}
+
+
+.calton{
+    background-color: #440047;
+    width: 350px;
+    border-radius: 10px 100px / 120px;
+    position: absolute;
+    margin: 400px auto auto 100px;
+    border-style: groove;
+}
+
+.calton-img{
+    width: 20%;
+    float:left;
+    margin: 20px 20px auto 20px ;
+}
+.second-img{
+    background-color: #440047;
+    width:350px ;
+    border-radius: 10px 100px / 120px;
+    position: absolute;
+    margin: 430px auto 70px 500px;
+}
+.irene{
+    float: left;
+    width: 20%;
+    margin: 15px;
+}
+.third-img{
+    background-color: #440047;
+    width: 350px;
+    border-radius: 10px 100px / 120px;
+    position: absolute;
+    margin:450px auto auto 900px;
+}
+.anne-img{
+    float: left;
+    width: 20%;
+    margin: 15px;
+}
+p{
+    line-height: 1.5;
+    margin-top: 0;
+    padding: 30px;
+    color: #f6f6f6;
+}
+h4{
+    color: #f6f6f6; 
+}
+span{
+    color: #d54062;
+}
+.light{
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 0.9em;
+}
